@@ -8,7 +8,7 @@ async function main() {
 
   // uri that contains the jetton metadata
   // ref: https://github.com/ton-blockchain/TEPs/blob/master/text/0064-token-data-standard.md
-  const uri = "https://run.mocky.io/v3/c0afa6dd-a306-43d7-aa0e-d18746c6a289";
+  const uri = "https://run.mocky.io/v3/9d119ad4-efc6-4fd4-8bcf-500c4e142c3f";
   // max supply of the jetton
   const maxSupply = toNano(10000);
   const owner = wallet.address;
